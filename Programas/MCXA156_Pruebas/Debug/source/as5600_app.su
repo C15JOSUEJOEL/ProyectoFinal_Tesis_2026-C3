@@ -1,0 +1,4 @@
+../source/as5600_app.c:7:13:as5600_read_regs	48	static
+../source/as5600_app.c:21:6:as5600_read_status	24	static
+../source/as5600_app.c:34:6:as5600_read_angle	24	static
+../source/as5600_app.c:45:10:as5600_raw_to_centideg	16	static

@@ -1,0 +1,10 @@
+../source/lcd_i2c.c:11:13:delay_us	16	static
+../source/lcd_i2c.c:16:13:pcf_write	40	static
+../source/lcd_i2c.c:28:13:write_nibble	24	static
+../source/lcd_i2c.c:38:13:write_byte	16	static
+../source/lcd_i2c.c:44:13:lcd_cmd	16	static
+../source/lcd_i2c.c:49:6:lcd_init	8	static
+../source/lcd_i2c.c:69:6:lcd_clear	8	static
+../source/lcd_i2c.c:75:6:lcd_set_cursor	16	static
+../source/lcd_i2c.c:85:6:lcd_print	16	static
+../source/lcd_i2c.c:92:6:lcd_print_row	24	static

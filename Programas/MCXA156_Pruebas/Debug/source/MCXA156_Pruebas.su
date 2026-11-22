@@ -1,0 +1,15 @@
+C:\Users\joelc\Desktop\MCXA156_Pruebas\CMSIS/core_cm33.h:2555:22:__NVIC_SetPriority	16	static
+C:\Users\joelc\Desktop\MCXA156_Pruebas\CMSIS/core_cm33.h:3108:26:SysTick_Config	16	static
+C:\Users\joelc\Desktop\MCXA156_Pruebas\drivers/fsl_reset.h:240:20:RESET_ReleasePeripheralReset	16	static
+C:\Users\joelc\Desktop\MCXA156_Pruebas\drivers/fsl_lpadc.h:1242:20:LPADC_DoSoftwareTrigger	16	static
+../source/MCXA156_Pruebas.c:55:14:biquad_run	24	static
+../source/MCXA156_Pruebas.c:63:14:filt_chain	24	static
+../source/MCXA156_Pruebas.c:93:13:i2c_clock_enable	8	static
+../source/MCXA156_Pruebas.c:99:13:adc_power_clock	8	static
+../source/MCXA156_Pruebas.c:106:13:i2c_init	40	static
+../source/MCXA156_Pruebas.c:115:13:adc_init	80	static
+../source/MCXA156_Pruebas.c:144:16:adc_read	32	static
+../source/MCXA156_Pruebas.c:159:13:emg_sample	40	static
+../source/MCXA156_Pruebas.c:239:6:SysTick_Handler	16	static
+../source/MCXA156_Pruebas.c:250:13:i2c_scan	40	static
+../source/MCXA156_Pruebas.c:266:5:main	144	static
